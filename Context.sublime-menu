@@ -1,0 +1,7 @@
+[
+  {
+    "caption": "Toggle Readonly mode",
+    "command": "toggle_readonly_mode",
+    "id": "readonly"
+  }
+]
